@@ -45,3 +45,12 @@ h2 {
 .justify-end {
     justify-content: flex-end;
 }
+.flex-column {
+    flex-direction: column;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.flex-column {
+    flex-direction: column;
+}
